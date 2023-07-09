@@ -5,3 +5,4 @@ Learning Next.js by creating blog app by following tutorial from [Learn Next.js]
 * [Static Site Generation (SSG)](https://nextjs.org/docs/pages/building-your-application/rendering/static-site-generation)
   - Data fetching with [getStaticProps](https://nextjs.org/docs/pages/building-your-application/data-fetching/get-static-props)
 * [Server-side Rendering (SSR)](https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering)
+* [API Routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes)
